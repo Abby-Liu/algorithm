@@ -1,4 +1,4 @@
-# Algorithm implementing in Python3
+# Algorithm implement in Python3
 
 - Divide and Conquer Algorithm
 - Greedy Algorithm
